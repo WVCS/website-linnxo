@@ -1,32 +1,36 @@
-body {
-  background-color: #D5F2F6;
+body{
+  background-color: #A995AF;
 }
-h2{
+h1{
   font-size: 300%;
   letter-spacing: 6px;
   text-align: center;
-  color: #374142;
- 
-  text-decoration: overline;
+  color: #FFFFFF;
+  text-decoration: underline;
   text-decoration spacing: 
 }
-{img
-  width: 
-}
-ul{
+ul {
   text-align: center;
   list-style type: none;
-    font-family: Times;
+  font-family: Times;
   position: fixed;
+  padding: 5px;
+  top: 0;
+  width: 100vw;
+  background-color: #A995AF;
 }
 li{
   float: left;
-}li a{
-  padding: 50px;
-  color: #374142;
+  display: inline;
+  padding: 30px;
+}
+a {
+  padding: 20px;
+  color: #FFFFFF;
+  font-size: 110%;
+  text-decoration: none;
   border: ridge;
 }
-li a:hover{
+a:hover {
   background-color: #B5B5B5;
-}
 }
